@@ -1,16 +1,22 @@
 {
-  "canais": [
+  "channels": [
     {
-      "nome": "Canal Esportes HD",
-      "logo": "https://embedtvonline.com/images/espn.png",
-      "stream": "https://3.vipcanaisplay.site/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/tracks-v1a1/mono.ts.m3u8",
-      "referer": "https://1.embedtvonline.com/",
-      "categoria": "Esportes",
-      "qualidade": "HD"
+      "id": "premiere-clubes-22",
+      "title": "Premiere Clubes 22",
+      "category": "Esportes",
+      "image": "https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png",
+      "streams": [
+        {
+          "name": "Principal",
+          "url": "https://3.vipcanaisplay.site/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/tracks-v1a1/mono.ts.m3u8",
+          "type": "hls",
+          "headers": {
+            "Referer": "https://embedcanais.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10)"
+          }
+        }
+      ],
+      "status": "online"
     }
   ]
 }
-
-
-
-
