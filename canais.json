@@ -1,5 +1,12 @@
 {
-  "nome": "Record",
-  "url": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-8081636079.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/record/__index.m3u8?cc=y&sv=97&nu3zAQc9HC3GbwJq=1769721867-gpf6hgJXJq8AqPUq%2FPZKvor7%2B%2B5k84Jt8AV6%2BnfEX54%3D",
-  "referer": "https://rdcanais.top/"
+  "canais": [
+    {
+      "nome": "Canal Esportes HD",
+      "logo": "https://site.com/logo.png",
+      "stream": "https://3.vipcanaisplay.site/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/tracks-v1a1/mono.ts.m3u8",
+      "referer": "https://1.embedtvonline.com//",
+      "categoria": "Esportes",
+      "qualidade": "HD"
+    }
+  ]
 }
