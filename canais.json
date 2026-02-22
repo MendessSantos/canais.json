@@ -1,7 +1,7 @@
 {
   "channels": [
     {
-      "id": "premiere-clubes-22",
+      "id": "premiere-clubes",
       "title": "Premiere Clubes 22",
       "category": "Esportes",
       "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",
@@ -20,6 +20,7 @@
     }
   ]
 }
+
 
 
 
