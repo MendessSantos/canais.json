@@ -4,14 +4,14 @@
       "id": "premiere-clubes-22",
       "title": "Premiere Clubes 22",
       "category": "Esportes",
-      "image": "https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png",
+      "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",
       "streams": [
         {
           "name": "Principal",
-          "url": "https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1069919817_b348000.m3u8",
+          "url": "https://dlnmh9ip6v2xcxz.superbol.blog/globosp.m3u8",
           "type": "hls",
           "headers": {
-            "Referer": "",
+            "Referer": "https://https://embedflix.click/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10)"
           }
         }
@@ -20,4 +20,5 @@
     }
   ]
 }
+
 
