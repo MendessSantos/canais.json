@@ -3,10 +3,10 @@
   "version": "1.0",
   "channels": [
     {
-      "name": "Globo RJ",
+      "name": "Globo Rf",
       "category": "Aberto",
       "logo": "https://televisao.tv/images/tv.svg",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63eb9c5351f5d000085e8d7e/audio/audio/Portuguese/audio.m3u8?sid=be118695-1b18-11f1-b4f4-fa32a3874a4e&deviceId=dea552a7-c1d5-441a-8b07-f6ceb2dafaa1&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjZjM2VmOWI0LTZkNTktNDU5Mi1hYjhhLTc4NmFkNTBmZWI3NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiZTExODY5NS0xYjE4LTExZjEtYjRmNC1mYTMyYTM4NzRhNGUiLCJjbGllbnRJUCI6IjI4MDQ6MTRjOjY1ZjA6OGQ0Yzo0NTE2OmJmNTI6NWJkOmNmY2UiLCJjaXR5IjoiVGFndWF0aW5nYSIsInBvc3RhbENvZGUiOiI3MjAxNy0yNzIiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjc2MDA1LCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTE1Ljg1MDAwMDM4MTQ2OTcyNywiZGV2aWNlTG9uIjotNDguMDY5OTk5Njk0ODI0MjIsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE0NS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMjAuMC04OTI1ODI5MDI2NDgzODUxNWUyNjRmNWIwNTFiN2MxNjAyYTU4NDgyIiwiY2xpZW50SUQiOiJkZWE1NTJhNy1jMWQ1LTQ0MWEtOGIwNy1mNmNlYjJkYWZhYTEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlckhsc05nVmxsIjp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nVm9kIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJkZWE1NTJhNy1jMWQ1LTQ0MWEtOGIwNy1mNmNlYjJkYWZhYTEiLCJmd1ZjSUQyQ29wcGEiOiJkZWE1NTJhNy1jMWQ1LTQ0MWEtOGIwNy1mNmNlYjJkYWZhYTEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImRlYTU1MmE3LWMxZDUtNDQxYS04YjA3LWY2Y2ViMmRhZmFhMSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDksMTAwMTMsMTAwMTYsMTAwMjEsMTAwMjMsMTAwMjQsMTAwMDAsMTAwMTQsMTAwMTUsMTAwMjAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3NzI5OTI4NTA3MTgsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpaR1ZoTlRVeVlUY3RZekZrTlMwME5ERmhMVGhpTURjdFpqWmpaV0l5WkdGbVlXRXgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzczMDc5MjUwLCJpYXQiOjE3NzI5OTI4NTAsImp0aSI6IjQyMTI5OGY4LWVmODgtNGJkMy1hODA4LWE1MTZkZDdlMDNmYyJ9.Q_UnU5HjhxUalLzTnPqEDx8P29gIMioMh3TQLQ-sDZM&CMCD=mtp%3D10000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22f51f81e0-7e2f-4b29-ab93-923c81e864fe%22%2Csu"
+      "url": "https://xn---22--11--33--88--75---------b25zjf3lta6mwf6a47dza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/sbt/__playlist.m3u8?sv=89&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1772978602-umUyksEnDTCV2AIuIi92rz8VVSqd8S8UehIlccMSmEs%3D"
     },
     {
       "name": "SBT",
@@ -34,4 +34,5 @@
     }
   ]
 }
+
 
