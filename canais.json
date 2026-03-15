@@ -1,38 +1,28 @@
 {
-  "app_name": "TV Play",
+  "app_name": "Live Play Sports",
   "version": "1.0",
-  "channels": [
+  "matches": [
     {
-      "name": "Globo Rf",
-      "category": "Aberto",
-      "logo": "https://televisao.tv/images/tv.svg",
-      "url": "https://xn---22--11--33--88--75---------b25zjf3lta6mwf6a47dza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/sbt/__playlist.m3u8?sv=89&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1772978602-umUyksEnDTCV2AIuIi92rz8VVSqd8S8UehIlccMSmEs%3D"
+      "team_home": "Flamengo",
+      "team_away": "Palmeiras",
+      "logo_home": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhF2zdSW6pEb7EKBUshRy9M6Y-C3Toy2Osw&s",
+      "logo_away": "https://lncimg.lance.com.br/cdn-cgi/image/width=950,quality=75,fit=pad,format=webp/uploads/2024/09/escudo-palmeiras-aspect-ratio-512-320.jpg",
+      "championship": "Campeonato Brasileiro",
+      "time": "21:30",
+      "date": "2026-03-15",
+      "status": "AO VIVO",
+      "stream_url": "https://d1muf25xa03so8hp15.s27-usa-cloudfront-net.online/token/489b26494fe451736c1d71aa1fbbce5d/bandsports.txt"
     },
     {
-      "name": "SBT",
-      "category": "Aberto",
-      "logo": "https://seuservidor.com/logos/sbt.png",
-      "url": "https://servidor.com/sbt/index.m3u8"
-    },
-    {
-      "name": "Record",
-      "category": "Aberto",
-      "logo": "https://seuservidor.com/logos/record.png",
-      "url": "https://servidor.com/record/index.m3u8"
-    },
-    {
-      "name": "ESPN",
-      "category": "Esportes",
-      "logo": "https://seuservidor.com/logos/espn.png",
-      "url": "https://servidor.com/espn/index.m3u8"
-    },
-    {
-      "name": "Premiere",
-      "category": "Esportes",
-      "logo": "https://seuservidor.com/logos/premiere.png",
-      "url": "https://servidor.com/premiere/index.m3u8"
+      "team_home": "Real Madrid",
+      "team_away": "Barcelona",
+      "logo_home": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2RGcMWv4BC3pHWL3JcbhZ6wWeH3eCIg6bw&s",
+      "logo_away": "https://t3.ftcdn.net/jpg/02/95/77/60/360_F_295776062_8tUiN8BVCp7qeS5qoH2nRFGXhC3acusa.jpg",
+      "championship": "La Liga",
+      "time": "17:00",
+      "date": "2026-03-16",
+      "status": "HOJE",
+      "stream_url": "https://d1muf25xa03so8hp15.s27-usa-cloudfront-net.online/token/489b26494fe451736c1d71aa1fbbce5d/bandsports.txt"
     }
   ]
 }
-
-
