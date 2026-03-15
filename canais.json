@@ -1,6 +1,6 @@
 {
   "app_name": "Live Play Sports",
-  "version": "1.0",
+  "version": "1.1",
   "matches": [
     {
       "team_home": "Flamengo",
@@ -11,7 +11,9 @@
       "time": "21:30",
       "date": "2026-03-15",
       "status": "AO VIVO",
-      "stream_url": "https://d1muf25xa03so8hp15.s27-usa-cloudfront-net.online/token/489b26494fe451736c1d71aa1fbbce5d/bandsports.txt"
+      "stream_url": "https://d1muf25xa03so8hp15.s27-usa-cloudfront-net.online/token/489b26494fe451736c1d71aa1fbbce5d/bandsports.txt",
+      "referer": "https://embedtv.best/",
+      "user_agent": "Mozilla/5.0"
     },
     {
       "team_home": "Real Madrid",
@@ -22,7 +24,9 @@
       "time": "17:00",
       "date": "2026-03-16",
       "status": "HOJE",
-      "stream_url": "https://d1muf25xa03so8hp15.s27-usa-cloudfront-net.online/token/489b26494fe451736c1d71aa1fbbce5d/bandsports.txt"
+      "stream_url": "https://d1muf25xa03so8hp15.s27-usa-cloudfront-net.online/token/489b26494fe451736c1d71aa1fbbce5d/bandsports.txt",
+      "referer": "https://redecanaistv.ooo/",
+      "user_agent": "Mozilla/5.0"
     }
   ]
 }
