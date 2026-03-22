@@ -1,7 +1,7 @@
 {
   "config": {
     "aviso": {
-      "ativo": false,
+      "ativo": true,
       "mensagem": "🚨 Atenção: Se algum canal não abrir, teste outro sinal disponível.",
       "botao": "FECHAR"
     }
