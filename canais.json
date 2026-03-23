@@ -11,14 +11,14 @@
   },
   "channels": [
     {
-      "title": "Brasil x França",
+      "title": "Brasil 2x França",
       "category": "AMISTOSO - Qui, 26/03 17:00",
       "image": "https://media.trivela.com.br/main/2025/09/Raphinha-Mbappe-Brasil-Franca.png",
       "sources": [
-        "",
-        "",
-        "",
-        ""
+        "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+        "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+        "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+        "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
       ]
     }
     
