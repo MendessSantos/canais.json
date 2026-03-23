@@ -4,29 +4,23 @@
       "ativo": true
     },
     "aviso": {
-      "ativo": false,
-      "mensagem": "🚨 Atenção: os jogos estão disponíveis 40 minutos antes do início da partida, para garantir que o canal não caia. Volte assim que começar o jogo.",
-      "botao": "Volto Depois"
+      "ativo": true,
+      "mensagem": "🚨 Atenção: .",
+      "botao": "FECHAR"
     }
   },
-  "canais": [
+  "channels": [
     {
       "title": "Brasil x França",
-      "category": "AMISTOSO - Qui., 26/03 17:00",
-      "image": "https://www.rbsdirect.com.br/filestore/9/6/5/9/7/7/4_f886fe03b06fb4e/4779569_85d3d9eb217ae70.jpg?w=700",
+      "category": "AMISTOSO - Qui, 26/03 17:00",
+      "image": "https://media.trivela.com.br/main/2025/09/Raphinha-Mbappe-Brasil-Franca.png",
       "sources": [
-        "http://nfzcdn.vulcanzz.click/live/292330036/5179425/2428.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzQzMTAzOTksImlhdCI6MTc3NDIyNDAwMCwibmJmIjoxNzc0MjI0MDAwLCJ1c2VyIjoiMjkyMzMwMDM2IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMDcuMC4xNDE4LjYyIiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQxMzcyIn0.1HRiCeK6hqjVccQi_kAWinqigeZCvYlMdV-BwbxQJp4&id=2428&p=m3u8&aid=1774297079",
-        "https://xn---22--11--33--88--75---------b25zjf3lta6mwf6a47dza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/bobomg/__playlist.m3u8?sv=172&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1774297177-odjkBaeltalHlR56CIfgsUXLToJ%2FguIgh2fMwYjDXWg%3D"
-      ]
-    },
-    {
-      "title": "Brasil x Croácia",
-      "category": "AMISTOSO - Ter., 31/03 21:00",
-      "image": "https://s2-redeglobo.glbimg.com/pj1UmcTiLFalIjJ3MIA9Ru8-cCY=/0x0:940x650/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2018/w/b/cAiN9jTr2Mf5TYgJRGiA/brasil-x-croacia.png",
-      "sources": [
-        "http://nfzcdn.vulcanzz.click/live/292330036/5179425/2428.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzQzMTAzOTksImlhdCI6MTc3NDIyNDAwMCwibmJmIjoxNzc0MjI0MDAwLCJ1c2VyIjoiMjkyMzMwMDM2IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMDcuMC4xNDE4LjYyIiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQxMzcyIn0.1HRiCeK6hqjVccQi_kAWinqigeZCvYlMdV-BwbxQJp4&id=2428&p=m3u8&aid=1774297079",
-        "https://xn---22--11--33--88--75---------b25zjf3lta6mwf6a47dza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/bobomg/__playlist.m3u8?sv=172&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1774297177-odjkBaeltalHlR56CIfgsUXLToJ%2FguIgh2fMwYjDXWg%3D"
+        "",
+        "",
+        "",
+        ""
       ]
     }
+    
   ]
 }
