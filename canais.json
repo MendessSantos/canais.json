@@ -4,7 +4,7 @@
       "ativo": true
     },
     "aviso": {
-      "ativo": true,
+      "ativo": false,
       "mensagem": "🚨 Atenção: os jogos estão disponíveis 40 minutos antes do início da partida, para garantir que o canal não caia. Volte assim que começar o jogo.",
       "botao": "Volto Depois"
     }
