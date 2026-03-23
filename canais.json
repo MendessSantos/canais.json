@@ -5,7 +5,7 @@
     },
     "aviso": {
       "ativo": false,
-      "mensagem": "🚨 Atenção: Se algum canal não abrir, teste outro sinal disponível.",
+      "mensagem": "🚨 Atenção: .",
       "botao": "FECHAR"
     }
   },
