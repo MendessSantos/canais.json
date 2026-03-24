@@ -15,12 +15,18 @@
       "category": "AMISTOSO - Qui, 26/03 17:00",
       "image": "https://esportenewsmundo.com.br/wp-content/uploads/2025/06/Fluminense-312.png",
       "sources": [
-        "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
-        "http://ndzcdn.vulcanzz.click/live/292330036/5179425/494.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzQzMTAzOTksImlhdCI6MTc3NDIyNDAwMCwibmJmIjoxNzc0MjI0MDAwLCJ1c2VyIjoiMjkyMzMwMDM2IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMDcuMC4xNDE4LjYyIiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjM0ODM2In0.qQHJ4VUH2A6or-a6kSNdKs-3Fzu7_Y4i2qbD1Q_0-bM&id=494&p=m3u8&aid=1774296992",
-        "https://xn---22--11--33--88--75---------b25zjf3lta6mwf6a47dza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/bobomg/__playlist.m3u8?sv=172&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1774297177-odjkBaeltalHlR56CIfgsUXLToJ%2FguIgh2fMwYjDXWg%3D",
-        "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
+        "link1",
+        "link2"
+      ]
+    },
+    {
+      "title": "Brasil x Croácia",
+      "category": "AMISTOSO - Ter, 31/03 21:00",
+      "image": "https://www.estadao.com.br/resizer/v2/TVRZOUG245FAHC4VKBRCPC7HDY.jpeg?quality=80&auth=b7c0e3071f827b684a0ec1ccaee2f789a1412131e8d88fa3a5e838e4eba14f9a&width=1200&height=630&smart=true",
+      "sources": [
+        "",
+        ""
       ]
     }
-    
   ]
 }
