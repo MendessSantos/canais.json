@@ -4,14 +4,14 @@
       "ativo": false
     },
     "aviso": {
-      "ativo": true,
-      "mensagem": "",
-      "botao": ""
+      "ativo": false,
+      "mensagem": "JOGOS INDISPONIVEL NO MOMENTO",
+      "botao": "OK"
     }
   },
   "channels": [
     {
-      "title": "Red Bull Bragantino VS Flamengo",
+      "title": "Bragantino VS Flamengo",
       "category": "Brasileirão",
       "image": "https://s2-oglobo.glbimg.com/BynXX2-NbDBZVwFAhs_M95PvPfo=/0x0:1100x745/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/w/a/J4HNgFTXWd4iXpoXxNUw/confronto-flamengo-rj-vs-bragantino-red-bull-sp-2-.png",
       "sources": [
