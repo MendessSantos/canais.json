@@ -1,7 +1,7 @@
 {
   "config": {
     "canais": {
-      "ativo": false
+      "ativo": true
     },
     "aviso": {
       "ativo": true,
