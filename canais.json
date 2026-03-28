@@ -1,10 +1,10 @@
 {
   "config": {
     "canais": {
-      "ativo": true
+      "ativo": false
     },
     "aviso": {
-      "ativo": false,
+      "ativo": true,
       "mensagem": "Olá",
       "botao": "Fechar aqui"
     }
