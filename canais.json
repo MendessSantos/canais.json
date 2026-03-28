@@ -5,15 +5,48 @@
     },
     "aviso": {
       "ativo": false,
-      "mensagem": "JOGOS INDISPONIVEL NO MOMENTO",
-      "botao": "OK"
+      "mensagem": "Olá",
+      "botao": "Fechar aqui"
     }
   },
   "channels": [
     {
-      "title": "Bragantino VS Flamengo",
-      "category": "Brasileirão",
-      "image": "https://s2-oglobo.glbimg.com/BynXX2-NbDBZVwFAhs_M95PvPfo=/0x0:1100x745/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/w/a/J4HNgFTXWd4iXpoXxNUw/confronto-flamengo-rj-vs-bragantino-red-bull-sp-2-.png",
+      "title": "Red Bull Bragantino vs Flamengo",
+      "league": "Brasileirão Série A",
+      "date": "2026-04-02",
+      "time": "21:30",
+
+      "team1": {
+        "name": "BRA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png"
+      },
+      "team2": {
+        "name": "FLA",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/819.png&cquality=40&h=144&scale=crop&w=144"
+      },
+
+      "sources": [
+        "https://www.youtube.com/embed/LLpNUqHVam8",
+        "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+        "https://embedflix.click/tv/player.php?id=globo-sp"
+      ]
+    },
+
+    {
+      "title": "Palmeiras vs Corinthians",
+      "league": "Brasileirão Série A",
+      "date": "2026-04-03",
+      "time": "18:00",
+
+      "team1": {
+        "name": "PAL",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2029.png&h=200&w=200"
+      },
+      "team2": {
+        "name": "COR",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/874.png&h=200&w=200"
+      },
+
       "sources": [
         "https://www.youtube.com/embed/LLpNUqHVam8",
         "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
