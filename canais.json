@@ -1,12 +1,12 @@
 {
   "config": {
     "canais": {
-      "ativo": true
+      "ativo": false
     },
     "aviso": {
-      "ativo": false,
-      "mensagem": "Atualização de canais 19h00, volte depois desse horário.",
-      "botao": "OK, volto depois "
+      "ativo": true,
+      "mensagem": "Olá,jogos disponíveis somente amanhã 31/03.",
+      "botao": "Ok,volto depois"
     }
   },
   "channels": [
