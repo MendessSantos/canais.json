@@ -1,12 +1,12 @@
 {
   "config": {
     "canais": {
-      "ativo": true
+      "ativo": false
     },
     "aviso": {
       "ativo": true,
-      "mensagem": "Canais atualizado 40min antes das partidas.",
-      "botao": "OK, volto depois!"
+      "mensagem": "Os canais de futebol estão offline para manutenção, mas você pode assistir aos canais abertos em nosso site, como SBT, Record e Band",
+      "botao": "Assistir"
     }
   },
   "channels": [
