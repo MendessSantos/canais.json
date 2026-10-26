@@ -25,12 +25,12 @@
         "logo": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
       "sources": [
-        "https://embedcanaisdetv.xyz/e/index.php?canal=premiereclubes",
-        "https://embedcanaisdetv.xyz/e/index.php?canal=sportv",
+        "https://rdcanais.org/sportv",
+        "https://rdcanais.org/sportvalternativo",
         "https://rdcanais.org/premiereclubes",
         "https://rdcanais.org/premiereclubesalternativo",
-        "https://rdcanais.org/sportv",
-        "https://rdcanais.org/sportvalternativo"
+        "https://embedcanaisdetv.xyz/e/index.php?canal=premiereclubes",
+        "https://embedcanaisdetv.xyz/e/index.php?canal=sportv"
       ]
     }
   ]
