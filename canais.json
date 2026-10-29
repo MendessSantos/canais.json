@@ -12,25 +12,25 @@
   "channels": [
     
     {
-      "title": "Flamengo vs Atlético-MG",
+      "title": "Vasco VS Flamengo",
       "league": "Campeonato Brasileiro",
-      "date": "2026-010-26",
+      "date": "2026-010-29",
       "time": "20:00",
       "team1": {
+        "name": "Vasco",
+        "logo": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "team2": {
         "name": "Flamengo",
         "logo": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "team2": {
-        "name": "Atlético-MG",
-        "logo": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
       "sources": [
-        "https://rdcanais.org/sportv",
-        "https://rdcanais.org/sportvalternativo",
-        "https://rdcanais.org/premiereclubes",
-        "https://rdcanais.org/premiereclubesalternativo",
-        "https://embedcanaisdetv.xyz/e/index.php?canal=premiereclubes",
-        "https://embedcanaisdetv.xyz/e/index.php?canal=sportv"
+        "https://esportesembed.org/vasco-da-gama-x-flamengo-1",
+        "https://sporturbo.link/player/canais/ampv1",
+        "https://sporturbo.link/player/canais/ampv1sd",
+        "https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo",
+        "https://meuplayeronlinehd.com/myplay/watch.html?id=brasileiraoprime"
+        
       ]
     }
   ]
